@@ -2,5 +2,5 @@
 
 &nbsp;
 
-![](docs/humanekind.pdf)  
+[humanekind whitepaper](docs/humanekind.pdf)  
 
